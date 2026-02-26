@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#f0f0f0"/>
+  <g fill="#c0c0c0">
+    <rect x="60" y="60" width="280" height="180" rx="8"/>
+    <text x="200" y="165" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#7a7a7a">Gambar tidak ditemukan</text>
+  </g>
+</svg>
